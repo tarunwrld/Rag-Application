@@ -1,0 +1,7 @@
+nltk
+streamlit
+google-generativeai
+PyMuPDF
+numpy
+faiss-cpu
+os
